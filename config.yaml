@@ -32,6 +32,6 @@ params:
 menu:
   main:
     - name: Enter
-      url: about-heq/
+      url: about-heq/index.html
       weight: 20
 
