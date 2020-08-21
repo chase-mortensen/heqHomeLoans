@@ -1,4 +1,4 @@
-baseURL: 'https://chase-mortensen.github.io/heqHomeLoans/index.html'
+baseURL: 'https://chase-mortensen.github.io/heqHomeLoans/'
 languageCode: en-us
 defaultContentLanguage: en
 title: H*eq*
@@ -32,6 +32,6 @@ params:
 menu:
   main:
     - name: Enter
-      url: about-hugo/
+      url: about-heq/
       weight: 20
 
