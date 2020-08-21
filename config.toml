@@ -1,8 +1,9 @@
-baseURL = "https://heqhomeloans.com"
+baseURL = "https://chase-mortensen.github.com/heqHomeLoans"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "H*eq*"
 theme = "hermit"
+publishDir = "home"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
