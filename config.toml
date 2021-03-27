@@ -61,6 +61,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "email"
     url = "https://blinksmartform.mortgage/form/uwm-leads-loanOfficerID=T22GAJ82&broker=Q9F38CY9"
 
+   [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jd-hammons-35357219/"
+
 [menu]
 
   [[menu.main]]
